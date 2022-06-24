@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Fatih's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihzor)](https://github.com/fatihzor)
+[![Fatih's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihzor&show_icons=true&theme=radical)](https://github.com/fatihzor)
