@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Fatih's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihzor&show_icons=true&theme=radical)](https://github.com/fatihzor)
+
+
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-[![Fatih's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihzor&show_icons=true&theme=radical)](https://github.com/fatihzor)
