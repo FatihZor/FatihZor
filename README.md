@@ -57,10 +57,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python                     1 hr 3 mins     ██████████████████▒░░░░░░   73.17 %
-HTML                       15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-YAML                       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Nginx configuration file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Python   47 mins         ████████████████████░░░░░   80.66 %
+HTML     11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.34 %
 ```
 
 <!--END_SECTION:waka-->
