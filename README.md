@@ -41,16 +41,13 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [gRPC Nedir?](https://fatihzor.dev/grpc-nedir/)
-- [MongoEngine – Dokümanlar](https://fatihzor.dev/mongoengine-dokumanlar/)
-- [MongoEngine – Veritabanına Bağlanma ve Model Oluşturma](https://fatihzor.dev/mongoengine-veritabanina-baglanma-ve-model-olusturma/)
-- [Kubernetes 101 – Nedir? Nasıl Çalışır?](https://fatihzor.dev/kubernetes-101-nedir-nasil-calisir/)
 - [Visual Studio 2019 ile Flask](https://fatihzor.github.io/vs2019-flask-giris/)
 - [Flask-SocketIO Kullanımı](https://fatihzor.github.io/flask-socketio-kullanimi/)
 - [Azure Sanal Makine Oluşturma](https://fatihzor.github.io/azure-sanal-makine-olusturma/)
 - [PyCharm ve Azure](https://fatihzor.github.io/pycharm-azure-uygulama-gelistirme/)
 - [Öğrenciler İçin Azure](https://fatihzor.github.io/ogrenciler-icin-azure/)
 - [Cypress Nasıl Kullanılır? - 2](https://fatihzor.github.io/cypress-nasil-kullanilir-2/)
+- [Cypress Nedir, Nasıl Kullanılır?](https://fatihzor.github.io/cypress-nasil-kullanilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
