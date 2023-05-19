@@ -54,7 +54,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML   21 mins         █████████████████████████   100.00 %
+YAML       21 mins         ███████████████████░░░░░░   76.41 %
+GDScript   6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.59 %
 ```
 
 <!--END_SECTION:waka-->
