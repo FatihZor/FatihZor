@@ -41,13 +41,13 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Studio 2019 ile Flask](https://fatihzor.github.io/vs2019-flask-giris/)
-- [Flask-SocketIO Kullanımı](https://fatihzor.github.io/flask-socketio-kullanimi/)
-- [Azure Sanal Makine Oluşturma](https://fatihzor.github.io/azure-sanal-makine-olusturma/)
-- [PyCharm ve Azure](https://fatihzor.github.io/pycharm-azure-uygulama-gelistirme/)
-- [Öğrenciler İçin Azure](https://fatihzor.github.io/ogrenciler-icin-azure/)
-- [Cypress Nasıl Kullanılır? - 2](https://fatihzor.github.io/cypress-nasil-kullanilir-2/)
-- [Cypress Nedir, Nasıl Kullanılır?](https://fatihzor.github.io/cypress-nasil-kullanilir/)
+- [Visual Studio 2019 ile Flask](http://fatihzor.dev/vs2019-flask-giris/)
+- [Flask-SocketIO Kullanımı](http://fatihzor.dev/flask-socketio-kullanimi/)
+- [Azure Sanal Makine Oluşturma](http://fatihzor.dev/azure-sanal-makine-olusturma/)
+- [PyCharm ve Azure](http://fatihzor.dev/pycharm-azure-uygulama-gelistirme/)
+- [Öğrenciler İçin Azure](http://fatihzor.dev/ogrenciler-icin-azure/)
+- [Cypress Nasıl Kullanılır? - 2](http://fatihzor.dev/cypress-nasil-kullanilir-2/)
+- [Cypress Nedir, Nasıl Kullanılır?](http://fatihzor.dev/cypress-nasil-kullanilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
