@@ -41,7 +41,13 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Günlükleri – 1: Docker](https://fatihzor.dev/devops-gunlukleri-docker/)
+- [Visual Studio 2019 ile Flask](https://fatihzor.github.io/vs2019-flask-giris/)
+- [Flask-SocketIO Kullanımı](https://fatihzor.github.io/flask-socketio-kullanimi/)
+- [Azure Sanal Makine Oluşturma](https://fatihzor.github.io/azure-sanal-makine-olusturma/)
+- [PyCharm ve Azure](https://fatihzor.github.io/pycharm-azure-uygulama-gelistirme/)
+- [Öğrenciler İçin Azure](https://fatihzor.github.io/ogrenciler-icin-azure/)
+- [Cypress Nasıl Kullanılır? - 2](https://fatihzor.github.io/cypress-nasil-kullanilir-2/)
+- [Cypress Nedir, Nasıl Kullanılır?](https://fatihzor.github.io/cypress-nasil-kullanilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
