@@ -41,7 +41,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://fatihzor.dev/2023/07/29/hello-world/)
+- [DevOps Günlükleri – 1: Docker](https://fatihzor.dev/devops-gunlukleri-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 
