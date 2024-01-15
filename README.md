@@ -54,11 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other             28 mins         ████████████▓░░░░░░░░░░░░   50.87 %
-Java Properties   24 mins         ██████████▓░░░░░░░░░░░░░░   43.15 %
-TypeScript        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-YAML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TypeScript   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
