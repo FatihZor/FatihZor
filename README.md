@@ -54,11 +54,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 5 mins    ████████████████▓░░░░░░░░   66.89 %
-JavaScript   1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-HTML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-TypeScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Python                     3 hrs 5 mins    ██████████████▓░░░░░░░░░░   58.86 %
+JavaScript                 1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
+YAML                       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Bash                       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Nginx configuration file   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
